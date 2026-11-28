@@ -1,17 +1,17 @@
 {
-    "version": "1.0.7",
+    "version": "1.0.8",
     "description": "Lightweight peer-to-peer remote control over an end-to-end encrypted session",
     "homepage": "https://github.com/readori/RemoHop",
     "license": "AGPL-3.0-only",
     "notes": "Release binaries are not code-signed yet, so SmartScreen may warn on first run. Start with: remohop host",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/readori/RemoHop/releases/download/v1.0.7/remohop_windows_amd64.zip",
-            "hash": "8b0dbe23e11bec066971a2c1b7985da34e6ce7101c4a8b5b1e33675d89d222b1"
+            "url": "https://github.com/readori/RemoHop/releases/download/v1.0.8/remohop_windows_amd64.zip",
+            "hash": "b5619fc0f5f619f1200655baf0b1cb3e4af6859893953b87c4385cc31004f50b"
         },
         "arm64": {
-            "url": "https://github.com/readori/RemoHop/releases/download/v1.0.7/remohop_windows_arm64.zip",
-            "hash": "ceaa100955ba80fa30687b82b72660b16997ed7935796ba179feb4677d536d16"
+            "url": "https://github.com/readori/RemoHop/releases/download/v1.0.8/remohop_windows_arm64.zip",
+            "hash": "e7634b0ff4816b42a296047237c4e80aceed537d72a19a245af2eff5ba89426e"
         }
     },
     "bin": "remohop.exe",
